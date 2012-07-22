@@ -1,0 +1,15 @@
+Overview
+========
+This is a small repository for NCSU's ICPC code. This way we can already have it written up and
+printed off when the competition starts.
+
+Test Explanation
+================
+Prim's
+------
+    Prim's is a simple MST finding algorithm. The input format is as follows:
+    The first line will contain an integer n, the number of edges to follow.
+    Then n edges will follow, each edge denoted by the two node IDs, followed
+    by the edge weight, all separated by spaces. There can be multiple test
+    cases in a row, and the input will be ended with a test case where there are
+    0 edges. See the test input and output for an example.
